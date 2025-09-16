@@ -4,7 +4,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Notifications-blue?logo=telegram&logoColor=white)
 ![Last Commit](https://img.shields.io/github/last-commit/EliasH444/barberhood-booking-bot)
 
-A lightweight Python script that monitors [thebarberhood.co.uk](https://www.thebarberhood.co.uk) every 10 minutes for **new or cancelled booking slots** within the next 14 days.  
+A lightweight Python script that monitors my local babers every 10 minutes for **new or cancelled booking slots** within the next 14 days.  
 When a new slot is found, it sends you an instant **Telegram notification**.
 
 > ⚠️ **Note:** I got permission from my barber to run this script. **Please make sure to get permission from your barber before using it.**  
