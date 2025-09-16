@@ -10,8 +10,8 @@ CHECK_INTERVAL = 600  # 10 minutes in seconds
 DAYS_AHEAD = 14  # Check for slots in the next 14 days
 
 # Telegram bot details
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
+TELEGRAM_TOKEN = "1234567890:ABCDefGhIJKlmNoPQRsTUVwxyZ123456789"
+CHAT_ID = "987654321"
 
 bot = telegram.Bot(token=TELEGRAM_TOKEN)
 
